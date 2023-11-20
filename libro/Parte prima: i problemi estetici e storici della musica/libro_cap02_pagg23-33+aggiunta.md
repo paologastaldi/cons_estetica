@@ -190,4 +190,75 @@ Musica:
 
 ---
 
-### Musica e passioni `[]`
+### Musica e passioni `[pag 33]`
+
+Passioni: forti emozioni dell'animo
+
+Mondo Antico:
+- forte legame musica-passione
+- alcuni filosofi trovavano questo legame problematico
+    + Platone:
+        * è una relazione non educativa
+        * giovani: devo stare lontani dalle passioni
+
+Medioevo:
+- musica: spesso condannata per il legame col mondo emotivo
+- privilegio a ragionamento, linguaggio verbale
+    + musica: arte minore
+        * non fa parte del mondo della pura razionalità
+
+Rinascimento, init Barocco:
+- legame musica-passione: diventa centrale
+- diventa ancora più importante nell'Ottocento, Novecento
+
+Illuminismo:
+- la musica rappresenta il linguaggio delle passioni e delle emozioni forti
+- questo pensiero incide sui nuovi generi:
+    + melodramma
+    + si propaga anche alla musica strumentale
+        * seconda metà Settecento
+        * Ottocento
+
+Linguaggio melodrammatico:
+- non è adatto a descrivere, trasmettere, suscitare tutte le passioni
+    + solo alcune e con certe modalità
+- prende spunto dalla precedente musica profana
+    + era già stata creata per trasmettere emozioni
+    + passioni: erano statiche, prive di movimento
+        * punto culminante, non mutamento
+        * _affetti_ statici
+- nel madrigale:
+    + le passioni mutano: sorgere, culmine, tramonto
+        * nelle arie
+    + _muovere gli affetti_
+    + per suscitare con più effetto una reazione emotiva nel pubblico
+- primi melodrammi:
+    + leggenda di Orfeo ed Euridice
+        * per celebrare il potere della musica sull'animo umano
+
+Rivoluzione tra Rinascimento e Barocco:
+- _teatralizzazione della musica_:
+    + la musica non accompagna solo la scena
+    + ne cambia, influenza, enfatizza il carattere
+    + incarna il mondo di passioni, emozioni
+        * sfrutta tensioni, risoluzioni del linguaggio tonale
+    + linguaggio melodrammatico: diventa "codificato"
+        * per maggiore efficacia emotiva
+- nascita di un pubblico come lo intendiamo modernamente
+    + si dispone a fruire di uno spettacolo
+        * viene _affetto_ dalle passioni rappresentate
+    + il compositore proietta degli _effetti_ (non affetti) sul pubblico
+        * per suscitarne passioni nell'animo
+    
+
+Musica strumentale e vocale
+- Illuminismo: emancipazione della musica strumentale da quella vocale
+    + differenze:
+        * forme compositive
+        * forme esecutive
+- fine Settecento: sono oramai 2 generi distinti
+    + differenti riferimenti:
+        * culturali
+        * emotivi
+        * intellettuali
+- ma in entrambe rimane il legame musica-passioni
