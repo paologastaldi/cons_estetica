@@ -1,4 +1,4 @@
-# Cap04 - Musica e percezione `[pagg 51-60]`
+# Cap04 - Musica e percezione `[pagg 51-62]`
 
 ## Musica _percepita_ e musica _pensata_ `[pag 51]`
 
