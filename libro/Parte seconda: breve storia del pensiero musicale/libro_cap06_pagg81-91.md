@@ -1,4 +1,4 @@
-# Cap06 - Tra mondo antico e Medioevo `[pagg 81-]`
+# Cap06 - Tra mondo antico e Medioevo `[pagg 81-91]`
 
 ## Il pensiero cristiano e l'eredità classica `[pag 81]`
 
