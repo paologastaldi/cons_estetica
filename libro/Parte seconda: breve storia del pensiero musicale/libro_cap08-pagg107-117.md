@@ -1,4 +1,4 @@
-# Cap08 - L'Illuminismo e la musica `[pagg 107- ]`
+# Cap08 - L'Illuminismo e la musica `[pagg 107-117]`
 
 ## La teoria degli affetti nel Settecento `[pag 107]`
 
