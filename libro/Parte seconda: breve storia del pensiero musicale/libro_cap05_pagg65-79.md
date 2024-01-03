@@ -196,3 +196,56 @@ Aristotele:
 ---
 
 ## L'età ellenistica `[pag 76]`
+
+Pensiero aristotelico:
+- più pratico, empirico
+- ricerca psicologià
+- torna in Aristosseno, allievo di Aristotele
+- scuola peripatetica di Alessandria d'Egitto
+    + sviluppa il pensiero di:
+        * Aristotele
+        * Aristosseno
+
+Aristosseno:
+- trattani a noi pervenuti
+    + _Elementi di Armonia_
+    + _Elementi di ritmica_
+- cerca di scindere esperienza musicale e filosofia
+    + per il giudizio della musica: pone l'attenzione alla percezione uditiva
+    + udito, intelletto più indipendenti (rispetto al pensiero greco per cui erano molto legati)
+- elementi del pensiero di Aristosseno:
+    + reazione psicologica dell'individuo alla fruizione musicale
+    + aspetti soggettivi della fruizione musicale
+    + analisi della musica slegata da
+        * cosmologia
+        * metafisica
+- non nega della dottrina greca:
+    + legame _modo_-_ethos_:
+        * pensava avesse un fondamento storico
+        * MA non un legame intrinseco con la musica
+- innovazioni:
+    + pensiero estetico della musica
+    + modi:
+        * valore etico
+        * valore estetico: 
+
+Pseudo-Plutarco:
+- modi secondo Platone:
+    + modo lidio: lascivia
+        * usato dai poeti tragici
+    + modo dorico: virile, educativo
+        * usato per canti amorosi
+- espone il pensiero di Aristosseno
+    + allievo di Aristotele
+    + modi secondo Aristotele:
+        * tutti i modi sono utilizzabili
+        * i modi non hanno nulla di conveniente/sconveniente
+    + Astossene: scopritore del valore estetico della musica
+        * i modi hanno un valore etico, ma è solo secondario
+        * qualità primaria: essere _belli_
+        * richiamo a caratteri estetici
+- scuola peripatetica di Alessandria d'Egitto:
+    + sviluppa il pensiero di Aristotele ed Aristosseno
+    + considerazione estetica della musica:
+        * moralistica
+        * MA anche studio della teoria musicale (slegata da aspetti metafisici e cosmologici)
