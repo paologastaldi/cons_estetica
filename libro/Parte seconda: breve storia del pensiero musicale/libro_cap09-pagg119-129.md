@@ -1,4 +1,4 @@
-# Cap09 - Dall'idealismo romantico al formalismo di Hanslick `[pag 119]`
+# Cap09 - Dall'idealismo romantico al formalismo di Hanslick `[pagg 119-129]`
 
 ## La musica come linguaggio privilegiato `[pag 119]`
 

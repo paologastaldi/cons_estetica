@@ -1,4 +1,4 @@
-# Cap10 - La crisi del linguaggio musicale e l'estetica del Novecento `[pagg 131-]`
+# Cap10 - La crisi del linguaggio musicale e l'estetica del Novecento `[pagg 131-152]`
 
 ## La critica e l'estetica musicale in Italia `[pag 131]`
 
