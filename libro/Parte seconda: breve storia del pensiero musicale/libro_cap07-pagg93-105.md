@@ -61,6 +61,7 @@ Gioseffo Zarlino: (1517-1590)
     + intervalli: rapporto razionale, basato sulla natura
         * quindi: _musica mundana_ >> razionalità della musica udibile
     + teoria tonale: radicale innovazione
+        * basata sul fenomeno degli armonici superiori
     + armonia basata su modo maggiore, minore
         * abbandono dei modi medievali (problemi teorici e pratici)
         * accordo maggiore: esiste in natura >> consonante, bello, naturale
@@ -258,7 +259,7 @@ Teoria degli affetti:
     1. scientico-razionalista
         * fino a Rameau
     1. empirista
-        * formulazioni degli enciclopedisti
+        * formulazioni degli Enciclopedisti
 
 Marin Mersenne:
 - filosofo, matematico
